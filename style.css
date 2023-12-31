@@ -1,3 +1,9 @@
 :root {
   --light-dark: rgba(20, 20, 21, 0.954);
+
+}
+
+
+.main-txt {
+  color: #003153;
 }
